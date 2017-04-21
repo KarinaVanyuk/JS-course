@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#menu{
+	display: none;
+	list-style: none;
+	position: absolute;
+}
+ul{
+	border: 1px solid black;
+	width: 150px;
+}
+li{
+	padding: 3px;
+border-bottom: 1px solid black;
+}
+li:last-child{
+	border-bottom: 0;
+
+}
