@@ -1,0 +1,42 @@
+.but{
+	width: 24px;
+	height: 23px;
+}
+.play{	
+	background-image: url(image/player_play.png);
+}
+.pause{
+	background-image: url(image/player_pause.png)
+}
+.stop{
+	background-image: url(image/player_stop.png)
+}
+.slower{
+	background-image: url(image/player_start.png)
+}
+.faster{
+	background-image: url(image/player_end.png)
+}
+.volume{
+			background-image: url(image/player_volume.png)
+		}
+.active{
+			background-image: url(image/volume-muted.png)
+		}
+.video{
+	width: 200px;
+	 height: 10px; 
+	 border: 2px solid black; 
+	 display: inline-block;"
+}
+.load{
+	background-color: grey;
+	  height: 10px; 
+	  width: 2px;
+}
+.container{
+	display:block;
+}
+.time{
+	display: inline-block;
+}
