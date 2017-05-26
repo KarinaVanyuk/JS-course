@@ -1,0 +1,12 @@
+body{
+	width: 600px;
+}
+.active{
+background-color: #B0C4DE;
+}
+.text{
+	border: 1px solid black;
+	margin-top: 10px;
+	min-height: 300px;
+	padding: 10px;
+}

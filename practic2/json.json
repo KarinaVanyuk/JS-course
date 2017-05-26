@@ -1,0 +1,75 @@
+[
+{
+	"id":1,
+"name" : "video1",
+	"path" : "video.mp4",
+	"poster" : "1.jpg",
+	 "comments":[{
+                     
+                     "commtext": "Видео 1 супер",
+                     "marks": 9
+        },
+    {     	                     
+           	         "commtext": "Видео 1 не зашло",
+                     "marks": 3
+        },
+    {       	                    
+           	         "commtext": "Видео 1 нормально",
+                     "marks": 7
+        },
+    {                               
+                     "commtext": "Видео 1 плюсую ",
+                     "marks": 9
+        }],
+        "ratings":7
+},
+{
+	"id": 2,
+	"name" : "video2",
+	"path" : "video2.mp4",
+	"poster" : "2.jpg",
+	 "comments":[{
+                     
+                     "commtext": "Видео 2 ",
+                     "marks": 8
+        },
+    {     	                     
+           	         "commtext": "Видео 2 норм",
+                     "marks": 5
+        },
+    {       	                    
+           	         "commtext": "Видео 2 муха летала на 5 секундк ",
+                     "marks": 5
+        },
+    {                               
+                     "commtext": "Видео 2 плохо ",
+                     "marks": 2
+        }],
+        "ratings":5
+},
+{
+	"id":3,
+"name" : "video3",
+	"path" : "video3.mp4",
+	"poster" : "3.jpg",
+	 "comments":[{
+                     
+                     "commtext": "Видео 3 никак вообще",
+                     "marks": 4
+        },
+    {     	                     
+           	         "commtext": "Видео 3 отписка",
+                     "marks": 3
+        },
+    {       	                    
+           	         "commtext": "Видео 3 мне понравилось",
+                     "marks": 8
+        },
+    {                               
+                     "commtext": "А мне нет",
+                     "marks": 4
+        }],
+        "ratings":4.75
+}
+
+]

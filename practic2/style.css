@@ -1,0 +1,108 @@
+.but{
+	width: 24px;
+	height: 23px;
+}
+.play{	
+	background-image: url(image/player_play.png);
+}
+.pause{
+	background-image: url(image/player_pause.png)
+}
+.stop{
+	background-image: url(image/player_stop.png)
+}
+.slower{
+	background-image: url(image/player_start.png)
+}
+.faster{
+	background-image: url(image/player_end.png)
+}
+.volume{
+			background-image: url(image/player_volume.png)
+		}
+.active{
+			background-image: url(image/volume-muted.png)
+		}
+.video{
+	width: 200px;
+	 height: 10px; 
+	 border: 2px solid black; 
+	 display: inline-block;"
+}
+.load{
+	background-color: grey;
+	  height: 10px; 
+	  width: 2px;
+}
+.container{
+	display:block;
+	padding-left: 25px;
+}
+.time{
+	display: inline-block;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	height: 500px;
+	position: relative;
+}
+.list{
+	width: 200px;
+	height: 100%;
+	border: 1px solid black;
+	display: inline-block;
+	vertical-align: top;
+}
+.main{
+	width: 700px;
+	height: 100%;
+	border: 1px solid black;
+	margin-left: 20px;
+	display: inline-block;
+	vertical-align: top;
+	
+}
+img{
+	width: 100px;
+	height: 70px;
+}
+
+#videolist li{
+list-style: none;
+margin:10px;
+padding-left: 20px;
+}
+#video{
+	padding: 25px;
+}
+#listcom li{
+	border:1px solid black;
+	list-style: none;
+	margin-bottom: 5px;
+	margin-left: 20px;
+	padding: 10px;
+	width: 200px;
+}
+.subbut{
+width: 70px;
+height: 20px;
+}
+.vid{
+	display: none;
+	width: 300px;
+	height: 200px;
+	background-color: blue;
+}
+.act{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	display: block;
+}
+#commentlist{
+	list-style: none;
+	padding: 10px 
+}
